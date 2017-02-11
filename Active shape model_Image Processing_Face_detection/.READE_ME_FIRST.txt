@@ -1,0 +1,23 @@
+1) Open main in MATLAB
+
+2) Give the path of the database
+ (if our asignment is in ur download folder put this C:\Users\...\Downloads\ASM\Database)
+
+3) Run main
+
+4) Database size: 6
+
+5) How many images do you want to train? Enter any value <=6
+
+6) Do you want to manually select the feature points
+	YES -- Select the eyes and mouth manually
+	NO --- Automatic eyes and mouth detection
+
+7) Model will be created
+
+8) If you want to optimize it just left click on a dot 
+   and place it wherever necessarry by using leftclick.
+
+9) To save and exit right click on the image 
+
+10) At the end if you want to train more click YES.
